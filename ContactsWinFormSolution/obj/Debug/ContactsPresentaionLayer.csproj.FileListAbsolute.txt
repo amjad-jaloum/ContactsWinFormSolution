@@ -1,0 +1,17 @@
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsPresentaionLayer.csproj.AssemblyReference.cache
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.frmAddEditContact.resources
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.frmListContacts.resources
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.Properties.Resources.resources
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsPresentaionLayer.csproj.GenerateResource.cache
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsPresentaionLayer.csproj.CoreCompileInputs.cache
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsWinFormSolution.exe.config
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsWinFormSolution.exe
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsWinFormSolution.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsBusinessLayer.dll
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsDataAccessLayer.dll
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsBusinessLayer.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\Contacts.C9A4CD28.Up2Date
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.exe
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsWinFormSolution\obj\Debug\ContactsWinFormSolution.exe.config

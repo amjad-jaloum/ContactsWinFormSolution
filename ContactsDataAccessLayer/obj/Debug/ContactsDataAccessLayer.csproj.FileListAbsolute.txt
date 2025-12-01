@@ -1,0 +1,12 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+E:\Amjad\Programming Advices\18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
